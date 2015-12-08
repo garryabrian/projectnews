@@ -1,0 +1,364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DelicateNews 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-05 15:32+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ann <anochka1985@gmail.com>\n"
+"Language-Team: Carlos Varela <carlosvarela@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: Chile\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../comments.php:9
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Porfavor no cargar la pagina directamente. Gracias!"
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada esta protegida con clave. Ingrese la clave para ver comentarios."
+
+#: ../comments.php:24
+msgid "0 Comments"
+msgstr "0 Comentarios"
+
+#: ../comments.php:24
+msgid "1 Comment"
+msgstr "1 Comentario"
+
+#: ../comments.php:24
+msgid "Comments"
+msgstr "Comentarios"
+
+#: ../comments.php:43
+msgid "Trackbacks/Pingbacks"
+msgstr "Trackbacks/Pingbacks"
+
+#: ../comments.php:66
+msgid "Leave a Reply"
+msgstr "Comenta"
+
+#: ../comments.php:66
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deja un comentario para %s"
+
+#: ../comments.php:72
+msgid "You must be"
+msgstr "Debes estar"
+
+#: ../comments.php:72
+msgid "logged in"
+msgstr "registrado"
+
+#: ../comments.php:72
+msgid "to post a comment."
+msgstr "para publicar un comentario"
+
+#: ../comments.php:76
+msgid "Logged in as"
+msgstr "Registrado como"
+
+#: ../comments.php:76
+msgid "Log out &raquo;"
+msgstr "Salir &raquo;"
+
+#: ../comments.php:80
+#: ../page-contact.php:100
+msgid "Name"
+msgstr "Nombre"
+
+#: ../comments.php:81
+#: ../comments.php:87
+msgid "(required)"
+msgstr "(requerido)"
+
+#: ../comments.php:86
+msgid "Mail (will not be published)"
+msgstr "Mail (no será publicado)"
+
+#: ../comments.php:92
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:100
+msgid "Submit Comment"
+msgstr "Enviar"
+
+#: ../footer.php:15
+msgid "Designed by "
+msgstr "Diseñado por"
+
+#: ../footer.php:15
+msgid "Powered by "
+msgstr "Potenciado por"
+
+#: ../functions.php:20
+msgid "Primary Menu"
+msgstr "Menu Principal"
+
+#: ../functions.php:21
+msgid "Secondary Menu"
+msgstr "Menu Secundario"
+
+#: ../header.php:51
+msgid "search this site..."
+msgstr "buscar en el sitio..."
+
+#: ../header.php:67
+#: ../header.php:102
+msgid "Home"
+msgstr "Inicio"
+
+#: ../home.php:10
+msgid "Recent Posts"
+msgstr "Noticias Recientes"
+
+#: ../page-blog.php:49
+#: ../page-contact.php:90
+#: ../page-full.php:35
+#: ../page-gallery.php:45
+#: ../page-login.php:42
+#: ../page-search.php:42
+#: ../page-search.php:52
+#: ../page-sitemap.php:42
+#: ../page-sitemap.php:46
+#: ../page.php:29
+msgid "Pages"
+msgstr "Paginas"
+
+#: ../page-blog.php:61
+msgid "Posted"
+msgstr "Publicado"
+
+#: ../page-blog.php:61
+msgid "by"
+msgstr "por"
+
+#: ../page-blog.php:61
+msgid "on"
+msgstr "en"
+
+#: ../page-blog.php:61
+msgid "in"
+msgstr "en"
+
+#: ../page-blog.php:61
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: ../page-blog.php:61
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: ../page-blog.php:61
+msgid "comments"
+msgstr "comentarios"
+
+#: ../page-blog.php:81
+msgid "read more"
+msgstr "leer más"
+
+#: ../page-blog.php:100
+#: ../page-contact.php:137
+#: ../page-full.php:36
+#: ../page-gallery.php:84
+#: ../page-login.php:59
+#: ../page-search.php:88
+#: ../page-sitemap.php:79
+#: ../page.php:30
+msgid "Edit this page"
+msgstr "Editar esta pagina"
+
+#: ../page-contact.php:21
+msgid "Make sure you entered the captcha. "
+msgstr ""
+
+#: ../page-contact.php:24
+msgid "Numbers regenerated."
+msgstr ""
+
+#: ../page-contact.php:25
+msgid "You entered the wrong number in captcha. "
+msgstr ""
+
+#: ../page-contact.php:34
+msgid "Make sure you fill all fields. "
+msgstr ""
+
+#: ../page-contact.php:39
+msgid "Invalid Email. "
+msgstr ""
+
+#: ../page-contact.php:59
+msgid "Thanks for contacting us"
+msgstr ""
+
+#: ../page-contact.php:104
+msgid "Email Address"
+msgstr ""
+
+#: ../page-contact.php:108
+msgid "Subject"
+msgstr ""
+
+#: ../page-contact.php:115
+msgid "Captcha: "
+msgstr ""
+
+#: ../page-contact.php:124
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:129
+#, fuzzy
+msgid "Reset"
+msgstr "Reciente"
+
+#: ../page-contact.php:130
+#: ../page-search.php:80
+#, fuzzy
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../page-gallery.php:66
+msgid "Zoom in"
+msgstr ""
+
+#: ../page-gallery.php:67
+#, fuzzy
+msgid "Read more"
+msgstr "leer más"
+
+#: ../page-login.php:48
+msgid "Username"
+msgstr ""
+
+#: ../page-login.php:49
+msgid "Password"
+msgstr ""
+
+#: ../page-login.php:53
+msgid "Not a member?"
+msgstr ""
+
+#: ../page-login.php:53
+msgid "Register today!"
+msgstr ""
+
+#: ../page-search.php:46
+#, fuzzy
+msgid "search this website"
+msgstr "buscar en el sitio..."
+
+#: ../page-search.php:51
+#, fuzzy
+msgid "Posts"
+msgstr "Publicado"
+
+#: ../page-search.php:55
+msgid "Select a month"
+msgstr ""
+
+#: ../page-sitemap.php:51
+msgid "Categories"
+msgstr ""
+
+#: ../page-sitemap.php:56
+#, fuzzy
+msgid "Tags"
+msgstr "Paginas"
+
+#: ../page-sitemap.php:72
+msgid "Authors"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr "Buscar"
+
+#: ../includes/breadcrumbs.php:8
+msgid "Posts Tagged &quot;"
+msgstr "Contenidos Etiquetados &quot;"
+
+#: ../includes/breadcrumbs.php:10
+#: ../includes/breadcrumbs.php:12
+#: ../includes/breadcrumbs.php:14
+msgid "Posts made in"
+msgstr "Contenido realizado en"
+
+#: ../includes/breadcrumbs.php:16
+msgid "Search results for"
+msgstr "Resultados de busqueda para"
+
+#: ../includes/breadcrumbs.php:28
+msgid "Posts by "
+msgstr "Publicaciones por"
+
+#: ../includes/featured.php:44
+msgid "Posted by"
+msgstr "Publicado po"
+
+#: ../includes/featured.php:44
+msgid " on "
+msgstr "en"
+
+#: ../includes/navigation.php:2
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Contenido Anterior"
+
+#: ../includes/navigation.php:3
+msgid "Next Entries &raquo;"
+msgstr "Contenido Reciente &raquo;"
+
+#: ../includes/no-results.php:3
+msgid "No Results Found"
+msgstr "No se encontraron resultados"
+
+#: ../includes/no-results.php:4
+msgid "The page you requested could not be found. Try refining your search, or use the navigation above to locate the post."
+msgstr "La pagina solicitada no pudo ser encontrada. Intenta mejorar tu busqueda, o utiliza la navegación superior para localizar el contenido."
+
+#: ../includes/recent_scroller.php:2
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../includes/recent_scroller.php:22
+msgid "Recent From"
+msgstr "Reciente de"
+
+#: ../includes/recent_scroller.php:51
+msgid "Next"
+msgstr "Siguiente"
+
+#: ../includes/functions/comments.php:12
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: ../includes/functions/comments.php:16
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario esta esperando su aprobación"
+
+#: ../includes/functions/comments.php:21
+msgid "Reply"
+msgstr "Responder"
+
+#: ../includes/widgets/widget-tabbed.php:20
+msgid "Recent"
+msgstr "Reciente"
+
+#: ../includes/widgets/widget-tabbed.php:21
+msgid "Popular"
+msgstr "Popular"
+
+#: ../includes/widgets/widget-tabbed.php:22
+msgid "Random"
+msgstr "Al Azar"
+
